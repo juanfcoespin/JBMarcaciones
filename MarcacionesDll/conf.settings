@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MarcacionesDll" GeneratedClassName="conf">
+  <Profiles />
+  <Settings>
+    <Setting Name="SapFolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D:\DesarrolloSw\bddMarcaciones\EnvioMarcacionesSAP\Marcaciones</Value>
+    </Setting>
+    <Setting Name="omitirFechas" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">'2019/12/19','2020/01/09','2020/01/28','2020/02/10'</Value>
+    </Setting>
+    <Setting Name="condicionAtraso" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">((Hour(CHECKTIME)=7 and Minute(CHECKTIME)&gt;34) or Hour(CHECKTIME) in (8,9))</Value>
+    </Setting>
+    <Setting Name="bddPifoPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D:\DesarrolloSw\bddMarcaciones\bddBiometricoPifo.mdb</Value>
+    </Setting>
+    <Setting Name="bddPuemboPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D:\DesarrolloSw\bddMarcaciones\bddBiometricoPuembo.mdb</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

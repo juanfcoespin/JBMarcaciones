@@ -1,0 +1,89 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUtils", "C:\Users\jespin\Dropbox\TechTools\bibliotecaProyectosSoftware\ConsoleUtils\ConsoleUtils.csproj", "{4C66BE57-4663-404B-98A4-1D0F4468E486}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnvioMarcacionesSAP", "EnvioMarcacionesSAP\EnvioMarcacionesSAP.csproj", "{CBBBDF4D-E232-425B-8A2E-DB171F6C35FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "marcaciones", "marcaciones\marcaciones.csproj", "{82611396-7D43-455F-97F6-0838EE7B968B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarcacionesDll", "MarcacionesDll\MarcacionesDll.csproj", "{AEB194B7-C6E4-466C-883C-F2EB753AF04E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TechTools", "TechTools", "{6C73666B-C5AA-4E77-9605-C7F24AA653F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechTools.DelegatesAndEnums", "C:\Users\jespin\Dropbox\TechTools\bibliotecaProyectosSoftware\TechTools\TechTools.DelegatesAndEnums\TechTools.DelegatesAndEnums.csproj", "{C6863CC0-E925-4F7C-A36C-21BE93B4739E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechTools.Logs", "C:\Users\jespin\Dropbox\TechTools\bibliotecaProyectosSoftware\TechTools\TechTools.Logs\TechTools.Logs.csproj", "{A807F2AB-F463-43A8-99CA-A2187F62DA7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechTools.Msg", "C:\Users\jespin\Dropbox\TechTools\bibliotecaProyectosSoftware\TechTools\TechTools.Msg\TechTools.Msg.csproj", "{564BFB5A-F530-4B15-963B-6EEF28258BFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechTools.Utils", "C:\Users\jespin\Dropbox\TechTools\bibliotecaProyectosSoftware\TechTools\TechTools.Utils\TechTools.Utils.csproj", "{F5F4B36B-6166-4DB9-998C-8AED8CADE5B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechTools.Core.Access", "C:\Users\jespin\Dropbox\TechTools\bibliotecaProyectosSoftware\TechTools\TechTools.Core\TechTools.Core.Access\TechTools.Core.Access.csproj", "{8BECF6E0-D71C-4BB7-9315-408AB8B324F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechTools.Core.Base", "C:\Users\jespin\Dropbox\TechTools\bibliotecaProyectosSoftware\TechTools\TechTools.Core\TechTools.Core.Base\TechTools.Core.Base.csproj", "{4890096F-5313-401F-9366-74B7622AAE8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C66BE57-4663-404B-98A4-1D0F4468E486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C66BE57-4663-404B-98A4-1D0F4468E486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C66BE57-4663-404B-98A4-1D0F4468E486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C66BE57-4663-404B-98A4-1D0F4468E486}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBBBDF4D-E232-425B-8A2E-DB171F6C35FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBBBDF4D-E232-425B-8A2E-DB171F6C35FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBBBDF4D-E232-425B-8A2E-DB171F6C35FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBBBDF4D-E232-425B-8A2E-DB171F6C35FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82611396-7D43-455F-97F6-0838EE7B968B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82611396-7D43-455F-97F6-0838EE7B968B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82611396-7D43-455F-97F6-0838EE7B968B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82611396-7D43-455F-97F6-0838EE7B968B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEB194B7-C6E4-466C-883C-F2EB753AF04E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB194B7-C6E4-466C-883C-F2EB753AF04E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB194B7-C6E4-466C-883C-F2EB753AF04E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB194B7-C6E4-466C-883C-F2EB753AF04E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6863CC0-E925-4F7C-A36C-21BE93B4739E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6863CC0-E925-4F7C-A36C-21BE93B4739E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6863CC0-E925-4F7C-A36C-21BE93B4739E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6863CC0-E925-4F7C-A36C-21BE93B4739E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A807F2AB-F463-43A8-99CA-A2187F62DA7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A807F2AB-F463-43A8-99CA-A2187F62DA7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A807F2AB-F463-43A8-99CA-A2187F62DA7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A807F2AB-F463-43A8-99CA-A2187F62DA7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{564BFB5A-F530-4B15-963B-6EEF28258BFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{564BFB5A-F530-4B15-963B-6EEF28258BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{564BFB5A-F530-4B15-963B-6EEF28258BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{564BFB5A-F530-4B15-963B-6EEF28258BFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5F4B36B-6166-4DB9-998C-8AED8CADE5B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5F4B36B-6166-4DB9-998C-8AED8CADE5B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5F4B36B-6166-4DB9-998C-8AED8CADE5B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5F4B36B-6166-4DB9-998C-8AED8CADE5B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BECF6E0-D71C-4BB7-9315-408AB8B324F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BECF6E0-D71C-4BB7-9315-408AB8B324F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BECF6E0-D71C-4BB7-9315-408AB8B324F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BECF6E0-D71C-4BB7-9315-408AB8B324F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4890096F-5313-401F-9366-74B7622AAE8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4890096F-5313-401F-9366-74B7622AAE8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4890096F-5313-401F-9366-74B7622AAE8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4890096F-5313-401F-9366-74B7622AAE8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C6863CC0-E925-4F7C-A36C-21BE93B4739E} = {6C73666B-C5AA-4E77-9605-C7F24AA653F3}
+		{A807F2AB-F463-43A8-99CA-A2187F62DA7E} = {6C73666B-C5AA-4E77-9605-C7F24AA653F3}
+		{564BFB5A-F530-4B15-963B-6EEF28258BFC} = {6C73666B-C5AA-4E77-9605-C7F24AA653F3}
+		{F5F4B36B-6166-4DB9-998C-8AED8CADE5B6} = {6C73666B-C5AA-4E77-9605-C7F24AA653F3}
+		{8BECF6E0-D71C-4BB7-9315-408AB8B324F1} = {6C73666B-C5AA-4E77-9605-C7F24AA653F3}
+		{4890096F-5313-401F-9366-74B7622AAE8B} = {6C73666B-C5AA-4E77-9605-C7F24AA653F3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5FEBA74-51DE-4FA5-8156-A82ED586F1E2}
+	EndGlobalSection
+EndGlobal

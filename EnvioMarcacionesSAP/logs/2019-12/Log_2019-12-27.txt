@@ -1,0 +1,10 @@
+27/12/2019 16:16:27: Iniciando Proceso de envio de marcaciones a SAP...
+27/12/2019 16:16:42: Generado archivo: D:\DesarrolloSw\bddMarcaciones\EnvioMarcacionesSAP\Marcaciones\MarcacionesSAP20191223_1549.txt
+27/12/2019 16:17:15: Registradas marcaciones en la bdd SAP
+27/12/2019 16:17:23: Fin Proceso
+27/12/2019 16:22:55: Iniciando Proceso de envio de marcaciones a SAP...
+27/12/2019 16:23:04: Generado archivo: D:\DesarrolloSw\bddMarcaciones\EnvioMarcacionesSAP\Marcaciones\MarcacionesSAP20191223_1549.txt
+27/12/2019 16:37:37: Iniciando Proceso de envio de marcaciones a SAP...
+27/12/2019 16:37:41: Generado archivo: D:\DesarrolloSw\bddMarcaciones\EnvioMarcacionesSAP\Marcaciones\MarcacionesSAP20191223_1549.txt
+27/12/2019 16:37:45: Registradas marcaciones en la bdd SAP
+27/12/2019 16:37:48: Fin Proceso
