@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using ConsoleUtils;
 
 namespace MarcacionesDll
 {
@@ -66,6 +65,22 @@ namespace MarcacionesDll
         public static int GetRandomNumber(int min, int max)
         {
             return new Random().Next(min, max);
+        }
+    }
+    public class cu
+    {
+        public static void show(string msg) => Console.WriteLine(msg);
+
+        public static int getInt()
+        {
+            try
+            {
+                return Convert.ToInt32(Console.ReadLine());
+            }
+            catch
+            {
+                return -1;
+            }
         }
     }
 }

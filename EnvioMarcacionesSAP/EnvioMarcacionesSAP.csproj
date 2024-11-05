@@ -50,17 +50,17 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\Techtools.net\TechTools.Core\TechTools.Core.Base\TechTools.Core.Base.csproj">
+      <Project>{4890096f-5313-401f-9366-74b7622aae8b}</Project>
+      <Name>TechTools.Core.Base</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Techtools.net\TechTools.Logs\TechTools.Logs.csproj">
+      <Project>{a807f2ab-f463-43a8-99ca-a2187f62da7e}</Project>
+      <Name>TechTools.Logs</Name>
+    </ProjectReference>
     <ProjectReference Include="..\MarcacionesDll\MarcacionesDll.csproj">
       <Project>{aeb194b7-c6e4-466c-883c-f2eb753af04e}</Project>
       <Name>MarcacionesDll</Name>
-    </ProjectReference>
-    <ProjectReference Include="C:\Users\jespin\Dropbox\TechTools\bibliotecaProyectosSoftware\ConsoleUtils\ConsoleUtils.csproj">
-      <Project>{4c66be57-4663-404b-98a4-1d0f4468e486}</Project>
-      <Name>ConsoleUtils</Name>
-    </ProjectReference>
-    <ProjectReference Include="C:\Users\jespin\Dropbox\TechTools\bibliotecaProyectosSoftware\TechTools\TechTools.Logs\TechTools.Logs.csproj">
-      <Project>{a807f2ab-f463-43a8-99ca-a2187f62da7e}</Project>
-      <Name>TechTools.Logs</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 using MarcacionesDll;
 using TechTools.Logs;
-using ConsoleUtils;
+//using ConsoleUtils;
 
 namespace EnvioMarcacionesSAP
 {

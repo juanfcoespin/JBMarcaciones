@@ -52,19 +52,15 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="C:\Users\jespin\Dropbox\TechTools\bibliotecaProyectosSoftware\ConsoleUtils\ConsoleUtils.csproj">
-      <Project>{4c66be57-4663-404b-98a4-1d0f4468e486}</Project>
-      <Name>ConsoleUtils</Name>
-    </ProjectReference>
-    <ProjectReference Include="C:\Users\jespin\Dropbox\TechTools\bibliotecaProyectosSoftware\TechTools\TechTools.Core\TechTools.Core.Access\TechTools.Core.Access.csproj">
+    <ProjectReference Include="..\..\Techtools.net\TechTools.Core\TechTools.Core.Access\TechTools.Core.Access.csproj">
       <Project>{8becf6e0-d71c-4bb7-9315-408ab8b324f1}</Project>
       <Name>TechTools.Core.Access</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\jespin\Dropbox\TechTools\bibliotecaProyectosSoftware\TechTools\TechTools.Core\TechTools.Core.Base\TechTools.Core.Base.csproj">
+    <ProjectReference Include="..\..\Techtools.net\TechTools.Core\TechTools.Core.Base\TechTools.Core.Base.csproj">
       <Project>{4890096f-5313-401f-9366-74b7622aae8b}</Project>
       <Name>TechTools.Core.Base</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\jespin\Dropbox\TechTools\bibliotecaProyectosSoftware\TechTools\TechTools.Utils\TechTools.Utils.csproj">
+    <ProjectReference Include="..\..\Techtools.net\TechTools.Utils\TechTools.Utils.csproj">
       <Project>{f5f4b36b-6166-4db9-998c-8aed8cade5b6}</Project>
       <Name>TechTools.Utils</Name>
     </ProjectReference>
